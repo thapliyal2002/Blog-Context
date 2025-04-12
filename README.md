@@ -31,7 +31,7 @@ Getting individual blog posts with related content
 
 ## Installation and Setup
 bash# Clone the repository
-git clone https://github.com/thapliyal2002/Blog-Content
+git clone https://github.com/thapliyal2002/Blog-Context
 
 # Navigate to project directory
 cd react-blog-app
